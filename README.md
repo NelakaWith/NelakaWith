@@ -1,9 +1,66 @@
-- 👋 Hi, I’m @NelakaWith
-- 👀 I’m interested in latest web dev trends
-- 🌱 I’m currently learning NestJS + PostgreSQL + Jenkins
-- 📫 How to reach me : nelakasnj@gmail.com
-- 🌏 Web : [nelakawith.netlify.app](https://nelakawith.netlify.app/)
-- 🧑🏽‍💼 LinkedIn : [in/nelaka-withanage](https://www.linkedin.com/in/nelaka-withanage/)
+# 👋 Hello, I'm Nelaka Withanage
+
+🚀 **Frontend Engineer | UI/UX Developer | 9+ Years of Experience**
+
+Welcome to my GitHub! I'm a passionate front-end developer focused on building elegant, performant, and scalable user interfaces. With over 9 years in the industry, I've delivered production-grade web and hybrid apps using modern stacks like **Vue.js**, **React.js**, **TypeScript**, and **Tailwind CSS**.
+
+---
+
+## 💼 About Me
+
+- 🎓 BSc in Computer Science — *University College Dublin*
+- 🌍 Based in Danowita, Sri Lanka
+- 💬 Always excited about frontend architecture, microinteractions, performance, and accessible design.
+- 📬 Reach me: [nelakasnji@gmail.com](mailto:nelakasnji@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+`HTML5` `CSS3` `JavaScript` `TypeScript` `SCSS` `LESS` `Git` `Docker`
+
+**Frameworks & Libraries**  
+`Vue 3` `React.js` `Pinia` `Redux` `Quasar UI` `Material UI` `Tailwind CSS` `Bootstrap` `JQuery` `PrimeVue` `DevExtreme`
+
+**Tools & Platforms**  
+`Figma` `Photoshop` `Azure DevOps` `Jira` `BitBucket` `Netlify` `Vercel` `WordPress` `Jest` `Webpack` `Node.js (Express)`
+
+---
+
+## 📌 Notable Projects
+
+### 🔹 [Deal Flow - Calendar & Events Module](https://startupsteroid.com/)
+*Vue.js, JavaScript, CSS, Azure DevOps*  
+Developed the calendar and event management module for Startup Steroid’s internal CRM.
+
+### 🔹 [Jiva.ai - Zero Code AI Platform](https://jiva.ai/)
+*Vue 3, PrimeVue, API Integration*  
+Built client portal and interface for no-code AI experimentation and automation.
+
+### 🔹 [Symphony FinTech Platform – Digital Banking Suite]
+*React, Vue, Material UI, TypeScript*  
+Delivered UI components for mobile banking apps, digital wallets, portals, and POS apps for Sri Lanka's top banks.
+
+---
+
+## 📊 GitHub Stats
+
+![Nelaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelakawith&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelakawith&layout=compact&theme=radical)
+
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [Portfolio Website](https://nelakawith.netlify.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/nelaka-withanage)
+
+---
+
+> “Great user experiences are built through attention to detail — one pixel, one interaction at a time.”  
+> — *Nelaka Withanage*
+
 
 <!---
 NelakaWith/NelakaWith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
