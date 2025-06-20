@@ -38,7 +38,7 @@ Developed the calendar and event management module for Startup Steroid’s inter
 *Vue 3, PrimeVue, API Integration*  
 Built client portal and interface for no-code AI experimentation and automation.
 
-### 🔹 [Symphony FinTech Platform – Digital Banking Suite]
+### 🔹 [Symphony FinTech Platform – Digital Banking Suite](https://ideahub.lk/)
 *React, Vue, Material UI, TypeScript*  
 Delivered UI components for mobile banking apps, digital wallets, portals, and POS apps for Sri Lanka's top banks.
 
