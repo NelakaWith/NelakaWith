@@ -12,19 +12,26 @@ Welcome to my GitHub! I'm a passionate front-end developer focused on building e
 - 🌍 Based in Danowita, Sri Lanka
 - 💬 Always excited about frontend architecture, microinteractions, performance, and accessible design.
 - 📬 Reach me: [nelakasnji@gmail.com](mailto:nelakasnji@gmail.com)
+  
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [Portfolio Website](https://nelakawith.netlify.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/nelaka-withanage)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
-`HTML5` `CSS3` `JavaScript` `TypeScript` `SCSS` `LESS` `Git` `Docker`
+**Languages & Precompilers**  
+`HTML5` `CSS3` `JavaScript` `TypeScript` `SCSS` `LESS` 
 
 **Frameworks & Libraries**  
-`Vue 3` `React.js` `Pinia` `Redux` `Quasar UI` `Material UI` `Tailwind CSS` `Bootstrap` `JQuery` `PrimeVue` `DevExtreme`
+`Vue 3` `React.js` `Pinia` `Redux`  `Node.js (Express)` `Nest.js` `Quasar UI` `Material UI` `Tailwind CSS` `Bootstrap` `JQuery` `PrimeVue` `DevExtreme`
 
 **Tools & Platforms**  
-`Figma` `Photoshop` `Azure DevOps` `Jira` `BitBucket` `Netlify` `Vercel` `WordPress` `Jest` `Webpack` `Node.js (Express)`
+`Git` `Docker` `Figma` `Photoshop` `Azure DevOps` `Jira` `BitBucket` `Netlify` `Vercel` `WordPress` `Jest` `Webpack` 
 
 ---
 
@@ -46,15 +53,9 @@ Delivered UI components for mobile banking apps, digital wallets, portals, and P
 
 ## 📊 GitHub Stats
 
-![Nelaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelakawith&show_icons=true&theme=radical)
+![Nelaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelakawith&show_icons=true&theme=radical) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelakawith&layout=compact&theme=radical)
-
----
-
-## 🔗 Let's Connect
-
-- 🌐 [Portfolio Website](https://nelakawith.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/nelaka-withanage)
 
 ---
 
