@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nelaka Withanage
 
-🚀 **Frontend Engineer | UI/UX Developer | 9+ Years of Experience**
+🚀 **Web Depeloper | UI/UX Developer | 9+ Years of Experience**
 
 Welcome to my GitHub! I'm a passionate front-end developer focused on building elegant, performant, and scalable user interfaces. With over 9 years in the industry, I've delivered production-grade web and hybrid apps using modern stacks like **Vue.js**, **React.js**, **TypeScript**, and **Tailwind CSS**.
 
