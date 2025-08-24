@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate front-end developer focused on building e
 - 🎓 BSc in Computer Science — *University College Dublin*
 - 🌍 Based in Danowita, Sri Lanka
 - 💬 Always excited about frontend architecture, microinteractions, performance, and accessible design.
-- 📬 Reach me: [nelakasnji@gmail.com](mailto:nelakasnji@gmail.com)
+- 📬 Reach me: [nelakasnj@gmail.com](mailto:nelakasnj@gmail.com)
   
 ---
 
