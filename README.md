@@ -51,14 +51,6 @@ Delivered UI components for mobile banking apps, digital wallets, portals, and P
 
 ---
 
-## 📊 GitHub Stats
-
-![Nelaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelakawith&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelakawith&layout=compact&theme=radical)
-
----
-
 > “Great user experiences are built through attention to detail — one pixel, one interaction at a time.”  
 > — *Nelaka Withanage*
 
