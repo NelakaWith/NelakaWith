@@ -13,9 +13,9 @@ Welcome to my GitHub! I'm a passionate front-end developer focused on building e
 - 💬 Always excited about frontend architecture, microinteractions, performance, and accessible design.
 - 📬 Reach me: [nelakasnj@gmail.com](mailto:nelakasnj@gmail.com)
 
-[![NelakaWith's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelakaWith)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![NelakaWith's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelakaWith&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelakaWith&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelakaWith&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
