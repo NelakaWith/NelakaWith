@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate front-end developer focused on building e
 
 [![NelakaWith's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelakaWith&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelakaWith&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelakaWith&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
