@@ -12,6 +12,8 @@ Welcome to my GitHub! I'm a passionate front-end developer focused on building e
 - 🌍 Based in Danowita, Sri Lanka
 - 💬 Always excited about frontend architecture, microinteractions, performance, and accessible design.
 - 📬 Reach me: [nelakasnj@gmail.com](mailto:nelakasnj@gmail.com)
+
+  [![NelakaWith's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelakaWith)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
