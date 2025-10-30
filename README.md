@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Nelaka Withanage
 
-🚀 **Web App Developer | UI/UX Enthusiast | 9+ Years of Experience**
+🚀 **Senior Front-End Engineer (React/Next/Vue | TypeScript | CI/CD | SaaS Systems)**
 
-Welcome to my GitHub! I'm a passionate front-end developer focused on building elegant, performant, and scalable user interfaces. With over 9 years in the industry, I've delivered production-grade web and hybrid apps using modern stacks like **Vue.js**, **React.js**, **TypeScript**, and **Tailwind CSS**.
+I’m a **Senior Front-End Engineer** with 9+ years of experience delivering React/Next and Vue-based applications for SaaS platforms, dashboards, and enterprise systems. I specialise in building high-performance front-end systems, API integrations, and CI/CD pipelines that bridge design and DevOps..
 
 ---
 
