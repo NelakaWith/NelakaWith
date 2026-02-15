@@ -1,7 +1,7 @@
 # Hi there, I'm Nelaka Withanage 👋
-**Senior Frontend Engineer | React & Vue Specialist | 9+ Years Experience**
+**Senior Web Application Developer | React & Vue Specialist | 9+ Years Experience**
 
-I am a Senior Frontend Developer with 9+ years of experience delivering scalable web applications for **Fintech, AI, and Compliance** systems. I have extensive experience working with remote-first teams across the **US, UK, and Australia**, bridging the gap between complex backend systems and intuitive user interfaces.
+I am a Senior  Web Application Developer with 9+ years of experience delivering scalable web applications for **Fintech, AI, and Compliance** systems. I have extensive experience working with remote-first teams across the **US, UK, and Australia**, bridging the gap between complex backend systems and intuitive user interfaces.
 
 ---
 
