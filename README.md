@@ -1,5 +1,5 @@
 # Hi there, I'm Nelaka Withanage 👋
-**Senior Web Application Developer | React & Vue Specialist | 9+ Years Experience**
+Senior Software Engineer | Architecting High-Velocity Document Engines | Expert in Next.js 15, Vue 3, & NestJS | Scaling Infrastructure for Remote Teams
 
 I am a Senior  Web Application Developer with 9+ years of experience delivering scalable web applications for **Fintech, AI, and Compliance** systems. I have extensive experience working with remote-first teams across the **US, UK, and Australia**, bridging the gap between complex backend systems and intuitive user interfaces.
 
@@ -37,7 +37,8 @@ I am a Senior  Web Application Developer with 9+ years of experience delivering 
 ---
 
 ### 🤝 Let's Connect
-- **Portfolio:** [nelakawith.netlify.app](https://nelakawith.netlify.app)
+- **Portfolio:** [netlify.xyz](https://nelaka.xyz)
+- **Blog:** [The Quiet Console](https://blog.nelaka.xyz/)
 - **LinkedIn:** [linkedin.com/in/nelaka-withanage](https://linkedin.com/in/nelaka-withanage)
 - **Email:** [nelakasnj@gmail.com](mailto:nelakasnj@gmail.com)
 
