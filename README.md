@@ -37,7 +37,7 @@ I am a Senior  Web Application Developer with 9+ years of experience delivering 
 ---
 
 ### 🤝 Let's Connect
-- **Portfolio:** [netlify.xyz](https://nelaka.xyz)
+- **Portfolio:** [nelaka.xyz](https://nelaka.xyz)
 - **Blog:** [The Quiet Console](https://blog.nelaka.xyz/)
 - **LinkedIn:** [linkedin.com/in/nelaka-withanage](https://linkedin.com/in/nelaka-withanage)
 - **Email:** [nelakasnj@gmail.com](mailto:nelakasnj@gmail.com)
