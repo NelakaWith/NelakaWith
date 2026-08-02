@@ -18,9 +18,11 @@ I am a Senior  Web Application Developer with 9+ years of experience delivering 
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript, MySQL |
-| **Frameworks** | React.js (Redux), Vue.js (Vue 3, Pinia, Quasar), Node.js (ExpressJS, NestJS) |
-| **UI/UX** | Tailwind CSS, Material UI, PrimeVue, Figma |
+| **Languages** | JavaScript (ES6+), TypeScript, MySQL |
+| Architecture & Systems | Distributed Monorepos (pnpm, Turborepo), Data Ingestion Pipelines, System Decoupling, Asynchronous Queue Design (BullMQ, Redis) |
+| Data Layer | PostgreSQL (pgvector), MySQL, Drizzle ORM, Relational Schema Design |
+| **Frameworks** | React.js (Next.js, Redux), Vue.js (Vue 3, Nuxt 4, Pinia, Quasar), Node.js (ExpressJS, NestJS) |
+| **UI/UX** | Docker, Docker-Compose, GitLab CI/CD, GitHub Actions, Linux CLI Workfl ows |
 | **Tools/DevOps** | Git, Docker, Jest, Vite, Azure DevOps, GitHub Actions |
 
 ---
