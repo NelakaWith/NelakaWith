@@ -1,7 +1,7 @@
 # Hi there, I'm Nelaka Withanage 👋
-Senior Software Engineer | Architecting High-Velocity Document Engines | Expert in Next.js 15, Vue 3, & NestJS | Scaling Infrastructure for Remote Teams
+Senior Frontend & Fullstack Engineer | React.js · Vue.js · TypeScript · Node.js
 
-I am a Senior  Web Application Developer with 9+ years of experience delivering scalable web applications for **Fintech, AI, and Compliance** systems. I have extensive experience working with remote-first teams across the **US, UK, and Australia**, bridging the gap between complex backend systems and intuitive user interfaces.
+Senior Frontend & Fullstack Engineer specialising in the JavaScript ecosystem across the fi ntech, travel, and compliance sectors. Focuses on the architectural middle ground where complex browser-side state meets robust backend logic, prioritising system predictability and maintainability over cleverness. Expert in utilising JavaScript/TypeScript, React, and Vue 3 to engineer interfaces that manage high-frequency data streams without sacrifi cing user experience. Proven success working within remote-fi rst, distributed teams, prioritising clear technical communication and async-fi rst documentation to accelerate engineering velocity.
 
 ---
 
